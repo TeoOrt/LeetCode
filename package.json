@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "scripts": {
+      "tsc": "tsc"
+     },
+    "typescript": "^4.9.5"
+
+  }
+}
